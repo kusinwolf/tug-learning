@@ -1,0 +1,20 @@
+Manifest
+{
+	# Name of the mods.
+	Name = "Test Mod Script"
+
+	# Description of the mod.
+	Description = "A test of the mod scripting system"
+
+	# The major version number.
+	MajorVersion = 0.1
+
+	# The minor version number.
+	MinorVersion = 0.1
+
+	# The file path to the script that is the entry point.
+	ScriptFile = "Scripts/TestModScript.lua"
+
+	# The script entry point class name
+	ScriptClass = "TestModScript"
+}
